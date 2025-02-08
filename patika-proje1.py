@@ -27,3 +27,5 @@ def reverse_nested_list(lst):
 input_list = [[1, 2], [3, 4], [5, 6, 7]]
 output_list = reverse_nested_list(input_list)
 print(output_list)
+
+
